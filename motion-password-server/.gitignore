@@ -1,0 +1,6 @@
+.idea
+.vscode
+__pycache__
+**/*.pyc
+database/__pycache__
+helper_functions/__pycache__
